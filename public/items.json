@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "АМБРЕЛЛА",
+    "image": "umbrella.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "СКВИГЛИ",
+    "image": "skuigli.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Природа 3",
+    "image": "nature3.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Природа 4",
+    "image": "nature4.jpeg"
+  }
+]
